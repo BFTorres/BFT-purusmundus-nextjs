@@ -400,15 +400,6 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "/Users/bernardo/Downloads/Free Tailwind CSS + Next.js Starter Template/startup-nextjs-main/node_modules/react-modal-video/css/modal-video.css": {
-    "default": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
-    }
-  },
   "/Users/bernardo/Downloads/Free Tailwind CSS + Next.js Starter Template/startup-nextjs-main/styles/index.css": {
     "default": {
       "id": "null",
