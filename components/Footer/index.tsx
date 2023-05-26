@@ -101,11 +101,11 @@ const Footer = () => {
                 <ul>
                   <li>
                     <a
-                      href="/"
+                      href="https://bybernardo.com/imprint"
                       className="mb-4 inline-block text-base font-medium text-body-color hover:text-primary"
                     >
                       {" "}
-                      Blog{" "}
+                      Impressum{" "}
                     </a>
                   </li>
                   <li>
