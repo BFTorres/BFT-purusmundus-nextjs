@@ -57,7 +57,7 @@
         "id": "(sc_client)/./node_modules/next/dist/client/image.js",
         "name": "",
         "chunks": [
-          "app/blog/page:app/blog/page"
+          "app/about/page:app/about/page"
         ],
         "async": false
       },
@@ -65,7 +65,7 @@
         "id": "(sc_client)/./node_modules/next/dist/client/image.js",
         "name": "*",
         "chunks": [
-          "app/blog/page:app/blog/page"
+          "app/about/page:app/about/page"
         ],
         "async": false
       },
@@ -73,7 +73,7 @@
         "id": "(sc_client)/./node_modules/next/dist/client/image.js",
         "name": "default",
         "chunks": [
-          "app/blog/page:app/blog/page"
+          "app/about/page:app/about/page"
         ],
         "async": false
       }
@@ -83,7 +83,7 @@
         "id": "(sc_client)/./node_modules/next/dist/client/link.js",
         "name": "",
         "chunks": [
-          "app/blog/page:app/blog/page"
+          "app/about/page:app/about/page"
         ],
         "async": false
       },
@@ -91,7 +91,7 @@
         "id": "(sc_client)/./node_modules/next/dist/client/link.js",
         "name": "*",
         "chunks": [
-          "app/blog/page:app/blog/page"
+          "app/about/page:app/about/page"
         ],
         "async": false
       },
@@ -99,7 +99,7 @@
         "id": "(sc_client)/./node_modules/next/dist/client/link.js",
         "name": "default",
         "chunks": [
-          "app/blog/page:app/blog/page"
+          "app/about/page:app/about/page"
         ],
         "async": false
       }
@@ -237,14 +237,14 @@
   },
   "__edge_ssr_module_mapping__": {},
   "__entry_css_files__": {
-    "/Users/bernardo/Downloads/Free Tailwind CSS + Next.js Starter Template/startup-nextjs-main/app/layout": [
+    "/Users/bernardo/Documents/Projects/2023/purusmundus-nextjs/app/layout": [
       "static/css/app/layout.css"
     ],
-    "/Users/bernardo/Downloads/Free Tailwind CSS + Next.js Starter Template/startup-nextjs-main/app/page": [
+    "/Users/bernardo/Documents/Projects/2023/purusmundus-nextjs/app/page": [
       "static/css/_app-client_node_modules_next_font_google_target_css_path_app_page_tsx_import_Inter_arguments-2f8da4.css"
     ]
   },
-  "/Users/bernardo/Downloads/Free Tailwind CSS + Next.js Starter Template/startup-nextjs-main/components/Common/ScrollUp.tsx": {
+  "/Users/bernardo/Documents/Projects/2023/purusmundus-nextjs/components/Common/ScrollUp.tsx": {
     "": {
       "id": "(app-client)/./components/Common/ScrollUp.tsx",
       "name": "",
@@ -270,7 +270,7 @@
       "async": false
     }
   },
-  "/Users/bernardo/Downloads/Free Tailwind CSS + Next.js Starter Template/startup-nextjs-main/components/Pricing/index.tsx": {
+  "/Users/bernardo/Documents/Projects/2023/purusmundus-nextjs/components/Pricing/index.tsx": {
     "": {
       "id": "(app-client)/./components/Pricing/index.tsx",
       "name": "",
@@ -296,12 +296,12 @@
       "async": false
     }
   },
-  "/Users/bernardo/Downloads/Free Tailwind CSS + Next.js Starter Template/startup-nextjs-main/node_modules/next/dist/client/image.js": {
+  "/Users/bernardo/Documents/Projects/2023/purusmundus-nextjs/node_modules/next/dist/client/image.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "",
       "chunks": [
-        "app/blog/page:app/blog/page"
+        "app/about/page:app/about/page"
       ],
       "async": false
     },
@@ -309,7 +309,7 @@
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "*",
       "chunks": [
-        "app/blog/page:app/blog/page"
+        "app/about/page:app/about/page"
       ],
       "async": false
     },
@@ -317,17 +317,17 @@
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "default",
       "chunks": [
-        "app/blog/page:app/blog/page"
+        "app/about/page:app/about/page"
       ],
       "async": false
     }
   },
-  "/Users/bernardo/Downloads/Free Tailwind CSS + Next.js Starter Template/startup-nextjs-main/node_modules/next/dist/esm/client/image.js": {
+  "/Users/bernardo/Documents/Projects/2023/purusmundus-nextjs/node_modules/next/dist/esm/client/image.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "",
       "chunks": [
-        "app/blog/page:app/blog/page"
+        "app/about/page:app/about/page"
       ],
       "async": false
     },
@@ -335,7 +335,7 @@
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "*",
       "chunks": [
-        "app/blog/page:app/blog/page"
+        "app/about/page:app/about/page"
       ],
       "async": false
     },
@@ -343,17 +343,17 @@
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "default",
       "chunks": [
-        "app/blog/page:app/blog/page"
+        "app/about/page:app/about/page"
       ],
       "async": false
     }
   },
-  "/Users/bernardo/Downloads/Free Tailwind CSS + Next.js Starter Template/startup-nextjs-main/node_modules/next/dist/client/link.js": {
+  "/Users/bernardo/Documents/Projects/2023/purusmundus-nextjs/node_modules/next/dist/client/link.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "",
       "chunks": [
-        "app/blog/page:app/blog/page"
+        "app/about/page:app/about/page"
       ],
       "async": false
     },
@@ -361,7 +361,7 @@
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "*",
       "chunks": [
-        "app/blog/page:app/blog/page"
+        "app/about/page:app/about/page"
       ],
       "async": false
     },
@@ -369,17 +369,17 @@
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "default",
       "chunks": [
-        "app/blog/page:app/blog/page"
+        "app/about/page:app/about/page"
       ],
       "async": false
     }
   },
-  "/Users/bernardo/Downloads/Free Tailwind CSS + Next.js Starter Template/startup-nextjs-main/node_modules/next/dist/esm/client/link.js": {
+  "/Users/bernardo/Documents/Projects/2023/purusmundus-nextjs/node_modules/next/dist/esm/client/link.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "",
       "chunks": [
-        "app/blog/page:app/blog/page"
+        "app/about/page:app/about/page"
       ],
       "async": false
     },
@@ -387,7 +387,7 @@
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "*",
       "chunks": [
-        "app/blog/page:app/blog/page"
+        "app/about/page:app/about/page"
       ],
       "async": false
     },
@@ -395,12 +395,12 @@
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "default",
       "chunks": [
-        "app/blog/page:app/blog/page"
+        "app/about/page:app/about/page"
       ],
       "async": false
     }
   },
-  "/Users/bernardo/Downloads/Free Tailwind CSS + Next.js Starter Template/startup-nextjs-main/styles/index.css": {
+  "/Users/bernardo/Documents/Projects/2023/purusmundus-nextjs/styles/index.css": {
     "default": {
       "id": "null",
       "name": "default",
@@ -409,7 +409,7 @@
       ]
     }
   },
-  "/Users/bernardo/Downloads/Free Tailwind CSS + Next.js Starter Template/startup-nextjs-main/app/layout.tsx": {
+  "/Users/bernardo/Documents/Projects/2023/purusmundus-nextjs/app/layout.tsx": {
     "": {
       "id": "(app-client)/./app/layout.tsx",
       "name": "",
@@ -435,7 +435,7 @@
       "async": false
     }
   },
-  "/Users/bernardo/Downloads/Free Tailwind CSS + Next.js Starter Template/startup-nextjs-main/node_modules/next/dist/client/components/app-router.js": {
+  "/Users/bernardo/Documents/Projects/2023/purusmundus-nextjs/node_modules/next/dist/client/components/app-router.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "",
@@ -461,7 +461,7 @@
       "async": false
     }
   },
-  "/Users/bernardo/Downloads/Free Tailwind CSS + Next.js Starter Template/startup-nextjs-main/node_modules/next/dist/esm/client/components/app-router.js": {
+  "/Users/bernardo/Documents/Projects/2023/purusmundus-nextjs/node_modules/next/dist/esm/client/components/app-router.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "",
@@ -487,7 +487,7 @@
       "async": false
     }
   },
-  "/Users/bernardo/Downloads/Free Tailwind CSS + Next.js Starter Template/startup-nextjs-main/node_modules/next/dist/client/components/error-boundary.js": {
+  "/Users/bernardo/Documents/Projects/2023/purusmundus-nextjs/node_modules/next/dist/client/components/error-boundary.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "",
@@ -513,7 +513,7 @@
       "async": false
     }
   },
-  "/Users/bernardo/Downloads/Free Tailwind CSS + Next.js Starter Template/startup-nextjs-main/node_modules/next/dist/esm/client/components/error-boundary.js": {
+  "/Users/bernardo/Documents/Projects/2023/purusmundus-nextjs/node_modules/next/dist/esm/client/components/error-boundary.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "",
@@ -539,7 +539,7 @@
       "async": false
     }
   },
-  "/Users/bernardo/Downloads/Free Tailwind CSS + Next.js Starter Template/startup-nextjs-main/node_modules/next/dist/client/components/layout-router.js": {
+  "/Users/bernardo/Documents/Projects/2023/purusmundus-nextjs/node_modules/next/dist/client/components/layout-router.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "",
@@ -565,7 +565,7 @@
       "async": false
     }
   },
-  "/Users/bernardo/Downloads/Free Tailwind CSS + Next.js Starter Template/startup-nextjs-main/node_modules/next/dist/esm/client/components/layout-router.js": {
+  "/Users/bernardo/Documents/Projects/2023/purusmundus-nextjs/node_modules/next/dist/esm/client/components/layout-router.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "",
@@ -591,7 +591,7 @@
       "async": false
     }
   },
-  "/Users/bernardo/Downloads/Free Tailwind CSS + Next.js Starter Template/startup-nextjs-main/node_modules/next/dist/client/components/render-from-template-context.js": {
+  "/Users/bernardo/Documents/Projects/2023/purusmundus-nextjs/node_modules/next/dist/client/components/render-from-template-context.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "",
@@ -617,7 +617,7 @@
       "async": false
     }
   },
-  "/Users/bernardo/Downloads/Free Tailwind CSS + Next.js Starter Template/startup-nextjs-main/node_modules/next/dist/esm/client/components/render-from-template-context.js": {
+  "/Users/bernardo/Documents/Projects/2023/purusmundus-nextjs/node_modules/next/dist/esm/client/components/render-from-template-context.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "",
@@ -643,7 +643,7 @@
       "async": false
     }
   },
-  "/Users/bernardo/Downloads/Free Tailwind CSS + Next.js Starter Template/startup-nextjs-main/node_modules/@next/font/google/target.css?{\"path\":\"app/page.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}": {
+  "/Users/bernardo/Documents/Projects/2023/purusmundus-nextjs/node_modules/@next/font/google/target.css?{\"path\":\"app/page.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}": {
     "default": {
       "id": "null",
       "name": "default",

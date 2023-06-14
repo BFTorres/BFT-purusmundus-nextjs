@@ -781,9 +781,6 @@ input#checkboxLabel:checked ~ .box span{
 .aspect-\[25\/24\]{
   aspect-ratio: 25/24;
 }
-.aspect-\[77\/40\]{
-  aspect-ratio: 77/40;
-}
 .h-9{
   height: 2.25rem;
 }
@@ -835,9 +832,6 @@ input#checkboxLabel:checked ~ .box span{
 .h-3{
   height: 0.75rem;
 }
-.h-6{
-  height: 1.5rem;
-}
 .w-full{
   width: 100%;
 }
@@ -877,9 +871,6 @@ input#checkboxLabel:checked ~ .box span{
 .w-3{
   width: 0.75rem;
 }
-.w-6{
-  width: 1.5rem;
-}
 .min-w-\[36px\]{
   min-width: 36px;
 }
@@ -918,9 +909,6 @@ input#checkboxLabel:checked ~ .box span{
 }
 .max-w-\[18px\]{
   max-width: 18px;
-}
-.max-w-\[770px\]{
-  max-width: 770px;
 }
 .translate-y-\[-50\%\]{
   --tw-translate-y: -50%;
@@ -1125,9 +1113,6 @@ input#checkboxLabel:checked ~ .box span{
 .\!bg-opacity-80{
   --tw-bg-opacity: 0.8 !important;
 }
-.bg-opacity-75{
-  --tw-bg-opacity: 0.75;
-}
 .fill-current{
   fill: currentColor;
 }
@@ -1257,6 +1242,9 @@ input#checkboxLabel:checked ~ .box span{
 .pt-16{
   padding-top: 4rem;
 }
+.pt-20{
+  padding-top: 5rem;
+}
 .pr-5{
   padding-right: 1.25rem;
 }
@@ -1280,9 +1268,6 @@ input#checkboxLabel:checked ~ .box span{
 }
 .pb-8{
   padding-bottom: 2rem;
-}
-.pt-20{
-  padding-top: 5rem;
 }
 .text-center{
   text-align: center;
@@ -2097,6 +2082,11 @@ input#checkboxLabel:checked ~ .box span{
     padding-bottom: 7rem;
   }
 
+  .lg\:px-6{
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+
   .lg\:py-2{
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
@@ -2117,11 +2107,6 @@ input#checkboxLabel:checked ~ .box span{
     padding-right: 0.75rem;
   }
 
-  .lg\:px-6{
-    padding-left: 1.5rem;
-    padding-right: 1.5rem;
-  }
-
   .lg\:px-5{
     padding-left: 1.25rem;
     padding-right: 1.25rem;
@@ -2139,16 +2124,16 @@ input#checkboxLabel:checked ~ .box span{
     padding-top: 7rem;
   }
 
+  .lg\:pr-0{
+    padding-right: 0px;
+  }
+
   .lg\:pt-\[150px\]{
     padding-top: 150px;
   }
 
   .lg\:pt-24{
     padding-top: 6rem;
-  }
-
-  .lg\:pr-0{
-    padding-right: 0px;
   }
 
   .lg\:text-base{

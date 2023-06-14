@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 
 const Hero = () => {
   return (
@@ -17,9 +18,22 @@ const Hero = () => {
                 <h1 className="mb-5 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight">
                   Purusmundus: Ihre Reinigungsexperten in Hannover!
                 </h1>
-                <p className="mb-12 text-base font-medium !leading-relaxed text-body-color dark:text-white dark:opacity-90 sm:text-lg md:text-xl">
+                {/* <p className="mb-12 text-base font-medium !leading-relaxed text-body-color dark:text-white dark:opacity-90 sm:text-lg md:text-xl">
                   Professionelle Reinigung in Hannover - Purusmundus ist Ihre erste Wahl für eine hygienische Umgebung. Rufen Sie uns an und lassen Sie Ihr Zuhause oder Büro von unseren Experten auf Hochglanz bringen.
-                </p>
+                </p> */}
+                <div className="w-full px-4">
+                  <div
+                    className="wow fadeInUp relative mx-auto aspect-[25/24] lg:mr-0"
+                    data-wow-delay=".2s"
+                  >
+                    <Image
+                      src="/images/hero/banner_bg.jpg"
+                      alt="about-image"
+                      fill
+                      className="mx-auto max-w-full lg:mr-0 rounded-md"
+                    />
+                  </div>
+                </div>
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                   <Link
                     href="https://nextjstemplates.com/templates/startup"
@@ -38,7 +52,7 @@ const Hero = () => {
             </div>
           </div>
         </div>
-        <div className="absolute top-0 right-0 z-[-1] opacity-30 lg:opacity-100">
+        {/* <div className="absolute top-0 right-0 z-[-1] opacity-30 lg:opacity-100">
           <svg
             width="450"
             height="556"
@@ -175,8 +189,8 @@ const Hero = () => {
               </linearGradient>
             </defs>
           </svg>
-        </div>
-        <div className="absolute bottom-0 left-0 z-[-1] opacity-30 lg:opacity-100">
+        </div> */}
+        {/* <div className="absolute bottom-0 left-0 z-[-1] opacity-30 lg:opacity-100">
           <svg
             width="364"
             height="201"
@@ -278,7 +292,7 @@ const Hero = () => {
               </radialGradient>
             </defs>
           </svg>
-        </div>
+        </div> */}
       </section>
     </>
   );
